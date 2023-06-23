@@ -1,0 +1,2 @@
+# airepository
+aiexercise
